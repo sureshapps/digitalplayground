@@ -1,6 +1,6 @@
-# Harsh Goyal — Developer & Designer Portfolio
+# Suresh Kaleyannan — Developer & Designer Portfolio
 
-A dark-themed personal portfolio for **Harsh Goyal** — Computer Science graduate from NSUT, currently a Content R&D Trainee at PhysicsWallah. Focused on UI/UX, front-end development, and GenAI integration.
+A dark-themed personal portfolio for **Suresh Kaleyannan** — A Creative Developer.
 
 Built with **React + TypeScript + Vite + Tailwind CSS + Framer Motion**. Designed for one-click deployment on **Vercel**.
 
@@ -55,12 +55,7 @@ src/
     └── AnimatedText.tsx       # char-by-char scroll-driven reveal
 ```
 
-## Featured projects
 
-| Project | Live | Built with |
-|---|---|---|
-| ResumeIQ | [resumeiq-harsh.vercel.app](https://resumeiq-harsh.vercel.app) | React, Gemini API, Vercel |
-| Notch | [notch-zeta.vercel.app](https://notch-zeta.vercel.app) | React, Tailwind, Framer Motion |
 
 ## Customisation
 
@@ -77,4 +72,4 @@ src/
 
 ## Credits
 
-Designed & built by **Harsh Goyal** · [LinkedIn](https://www.linkedin.com/in/harsh-goyal-7900b2256/) · [GitHub](https://github.com/harshgoyal27)
+Designed & built by **Suresh Kaleyannan** 
