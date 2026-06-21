@@ -10,7 +10,7 @@ const NAV_LINKS = [
 const HeroSection = () => {
   const sectionRef = useRef<HTMLElement>(null);
   const videoRef = useRef<HTMLVideoElement>(null);
-  const [muted, setMuted] = useState(false);
+  const [muted, setMuted] = useState(true);
   const [showSoundHint, setShowSoundHint] = useState(true);
 
   // Auto-hide "Tap for sound" hint after 5 seconds
@@ -90,7 +90,7 @@ const HeroSection = () => {
       <video
         ref={videoRef}
         autoPlay
-        muted={false}
+        muted
         loop
         playsInline
         preload="auto"
