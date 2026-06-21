@@ -90,7 +90,7 @@ const HeroSection = () => {
       <video
         ref={videoRef}
         autoPlay
-        muted
+        muted={false}
         loop
         playsInline
         preload="auto"
